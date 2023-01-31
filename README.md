@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+# Dumpster Fire Token (DFT)
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+## Overview
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Dumpster Fire token is an ERC20 token. No true purpose other than practice. Deployed Goerli Test Network at: 0x449C074089E370887FF026D3519E21c18a417d6b. Dumpster Fire will be deployed to main net in the near future!
